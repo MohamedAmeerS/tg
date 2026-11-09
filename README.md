@@ -5,16 +5,16 @@
  ```pip install -r -requirements```
  
 ## Technologies
--Python
+- Python
 
--Machine Learning
+- Machine Learning
 
--Sql   
+- Sql   
 
--FastApi
+- FastApi
 
--Docker
+- Docker
 
--Cloud
+- Cloud
 ## Status
 Project Under Development
