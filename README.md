@@ -2,7 +2,9 @@
  Employee Attrition Deduction Method
  
 ## How To Install Requirements
- ``` pip install -r -requirements ```
+ ```python
+ pip install -r -requirements 
+ ```
  
 ## Technologies
 - Python
