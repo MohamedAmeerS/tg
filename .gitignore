@@ -1,0 +1,8 @@
+# for deleting venc folder
+.venv/
+# for deleting idea folder
+.idea/
+# for delteing pycache(caches that are created while running the code)
+__pycache__/
+# deleteing the files apart from py
+*.pyc
