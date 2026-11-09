@@ -1,5 +1,5 @@
 # TALENT GUARD AI
- Employee Attrition Deduction Method
+Employee Attrition Deduction Method
  
 ## How To Install Requirements
  ```python
