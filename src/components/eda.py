@@ -30,6 +30,7 @@ def eda_operations(data:pd.DataFrame):
         file.write("\n" + "-" * len("Shape of the data"))
         file.write("\n"+"_" * 70)
         file.write("\nData description\n" + "-" * len("Data description"))
+        file.write("\n")
         file.write(data.describe().to_string())
         file.write("\n"+"_" * 70)
         file.write("\nTarget data Attrition\n" + "-" * len("Target data Attrition"))
