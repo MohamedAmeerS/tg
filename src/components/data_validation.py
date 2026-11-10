@@ -1,5 +1,9 @@
 import pandas as pd
-from data_load import load_data
+from components.data_load import load_data
+
+
+
+
 
 def dataset_check(data:pd.DataFrame):
     print("*"*30)
